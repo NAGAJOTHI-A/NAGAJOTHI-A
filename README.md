@@ -1,7 +1,7 @@
 <!-- Profile Views -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Nagajyoti&label=Profile%20Views&color=0e75b6&style=flat" alt="Nagajyoti" /> </p>
 
-<h1 align="center">Hi 👋, I'm Nagajyoti</h1>
+<h1 align="center">Hi 👋, I'm Nagajothi</h1>
 <h3 align="center">Java Full Stack Developer | Spring Boot | DevOps Learner</h3>
 
 ---
